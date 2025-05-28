@@ -1,0 +1,26 @@
+[
+    {
+      "condition": "NORMAL",
+      "remedies": [
+        "Maintain a healthy diet rich in fruits and vegetables.",
+        "Engage in regular physical exercise.",
+        "Stay hydrated by drinking plenty of water.",
+        "Get regular medical check-ups to monitor health.",
+        "Avoid smoking and exposure to pollutants."
+      ]
+    },
+    {
+      "condition": "PNEUMONIA",
+      "remedies": [
+        "Consult a doctor immediately for proper medication and treatment.",
+        "Complete the full course of prescribed antibiotics or antivirals.",
+        "Rest adequately to allow the body to recover.",
+        "Stay hydrated by drinking warm fluids like water, tea, or soup.",
+        "Use a humidifier to help ease breathing and loosen mucus.",
+        "Avoid smoking and exposure to smoke or irritants.",
+        "Monitor for symptoms like fever or difficulty breathing and seek medical attention if they worsen.",
+        "Follow a nutritious diet to support the immune system."
+      ]
+    }
+  ]
+  
